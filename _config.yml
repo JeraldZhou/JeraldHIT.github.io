@@ -86,9 +86,9 @@ author:
   location         : "Harbin,China"
   employer         :
   pubmed           : # ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhongliangzhou1997@outlook.com"
-  researchgate     :  "https://www.researchgate.net/profile/Zhong_Liang_Zhou"
+  researchgate     : "https://www.researchgate.net/profile/Zhong_Liang_Zhou"
   uri              :
   bitbucket        :
   codepen          :
