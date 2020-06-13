@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JeraldZhou Miracls happens everyday"
+title: "JeraldZhou Miracles happens everyday"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
