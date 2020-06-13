@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal blog, from this website, you can learn more about me research,hobby,and my personal resume.IF you have some questions or want to contact me, just send me an E-mail via (zhongliangzhou1997@outlook.com) .
 
-Click [here] (files/CV_LI_Zhaoting.pdf)to get my CV. 
+Click [here] (files/ZZL_CV2.pdf)to get my CV. 
 
 
 
