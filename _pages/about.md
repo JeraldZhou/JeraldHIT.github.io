@@ -21,13 +21,13 @@ a lot of effort on my research, and i really hooked by using algorithm to solve 
 Recent updates
 ======
 
-* November 2019: The paper "Adaptive sampling-based motion planning with a non-conservatively defensive strategy for autonomous driving" is submitted to IFAC World Congress,2020!
+* Apr. 2020: The paper 2.Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays" is accpted by material science in simiconductor processing!
 * September 2019: I receive the evaluation form from Prof. Tomizuka!
-<center><img src='/images/evanluation.jpg' width="75%" height="75%" /></center>
-* July 2019: I begin my internship about motion planning for autonomous driving at UC Berkeley!
-<center><img src='/images/image_berkeley_car.jpg' width="60%" height="60%" /></center>
-* May 2019: The paper "An Automatic Laser Scanning System for Objects with Unknown Model" accepted by IEEE Smart World Congress!
-
+<center><img src='/images/RMSfigure.png' width="75%" height="75%" /></center>
+* Nov. 2019: I finish the microwave sensor design and begin to use controllable laser irradiation applied to n-GaN protrusions generation!
+<center><img src='/images/RMSfigure.jpg' width="75%" height="75%" /></center>
+* Sep. 2019: I begin my master candidate life and prepare my first project : Intelligent Algorithm Applied for Microwave Sensor Design!
+<center><img src='/images/Microwavesensor.jpg' width="75%" height="75%" /></center>
 MY Experience
 ======
 * First year
