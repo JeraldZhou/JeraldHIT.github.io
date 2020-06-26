@@ -24,7 +24,7 @@ Recent updates
 
 * Apr. 2020: The paper 2.Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays" is accpted by material science in simiconductor processing!
 * Nov. 2019: I finish the microwave sensor design and begin to use controllable laser irradiation applied to n-GaN protrusions generation!
-<center><img src='/images/RMSfigure.jpg' width="75%" height="75%" /></center>
+<center><img src='/images/RMSfigure.png' width="75%" height="75%" /></center>
 * Sep. 2019: I begin my master candidate life and prepare my first project : Intelligent Algorithm Applied for Microwave Sensor Design!
 <center><img src='/images/Microwavesensor.jpg' width="75%" height="75%" /></center>
 
