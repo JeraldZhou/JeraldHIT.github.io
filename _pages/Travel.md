@@ -1,6 +1,7 @@
+---
 layout: archive
-title: "Travel blogs"
-permalink: /Travel blogs/
+title: "Travel Blogs"
+permalink: /Travel Blogs/
 author_profile: true
 redirect_from:
   - /resume
