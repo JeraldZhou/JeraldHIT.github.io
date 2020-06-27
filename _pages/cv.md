@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, University of Electronic Science and Technology of China, 2015-2019
+* GPA:80.78/100
+* Exchange student in The Beijing Genomics Institute 2018.03-2018.07
+* GPA:84.70/100
+* M.S. in Electromagnetic Field and Wireless Technology, Harbin Institute of Technology (HIT), 2019-2021(expected)
 
-Work experience
+
+Intern experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Research Assistant
+  * Genomics applied engineering lab in The Beijing Genomics Institute
+  * Duties included: Analyzed human genetic sequences to explore the specific drug resistance.
+  *                  Exploited a novel gene text processing procedure.
+  *                  Practiced an ancestral research based on big data of human genome.
+  * Supervisor: Engineer NING Qu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Professional software : CST, Advanced Design System, Origin, Photoshop, SolidWorks
+* Programing language: Python, C, R, Perl,MATLAB
+  * Machine learning programming : Optimum algorithm (e.g. GA, PSO, ACO), classification algorithm
+  * Deep learning programming: Pytorch, Sklearn, Numpy, Pandas
+* System : Linux, Windows, Cluster system
+* Familiar with microwave device fabrication, STM32.
 
 Publications
 ======
@@ -48,7 +50,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Volunteering
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
