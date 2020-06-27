@@ -39,11 +39,25 @@ redirect_from:
     * Set up a stable multi-parameter (temperature, ultraviolet light) humidity or volatile organic compounds (VOC) test chamber.
     * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 5).
 
+
+
+### <span id = "anchor">Wafer-scale Fabrication and Assembly Method of Multichannel Microelectrode Arrays for ECoG Application 2019.08 - present</span>
+  * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
+    * Designed high density electrocorticography (ECoG) based microelectrode arrays (MEAs) to timely record the neural activities to provide the fundamental understanding in neuroscience and biomedical engineering.
+    * Applied surface-mounted fabricated MEAs on well packaged Printed Circuit Boards (PCBs) via slot-type connector.
+    * Provided step-by-step fabrication technology, assembly method, and measurement process, which could be beneficial for the researchers that are still facing potential wafer-scale fabrication issues of MEAs.
+    * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 4).
+### <span id = "anchor">Computational Metasurface Design Based on Deep Learning 2020.01 - present</span>
+* Supervisor: Xu-Min DING Professor Institute: Microwave metasurface lab, Harbin Institute of Technology
+  * Build a multilayer neural network based on Pytorch to simulate metasurface transmission processing.
+  * Formulated incident function form to achieve integral or diffierential, when across metasurface.
+### <span id = "anchor">  Rapid Improvement in Visual Selective Attention Related to Action Video Gaming Experience 2016.07-2017.09</span>
+* Supervisor: Supervisor: Dian-Kun Gong Institute: Key laboratory of neuroinformatic, ministry of education, UESTC
+  * Figured out whether cognitive and neural plasticity was observable after a brief action video game session.
+  * Designed an integrated mini program to preprocess raw EEG data..
+  * Analyzed EEG data during game time based on dierent types of people (ordinary or expert).
+  * A paper has been published (as shown in PUBLICATIONS 6).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0E2lmW-gVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="448" height="252" src="https://www.youtube.com/embed/5IC28z9ZNMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ### <span id = "anchor2">Path planning for a laser scanning robot system</span>
 * Advisor: Huijun Gao , IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology
 <center><img src='/images/results2.png' width="33%" height="33%" /><img src='/images/scan_result05.png' width="33%" height="33%" /></center>
