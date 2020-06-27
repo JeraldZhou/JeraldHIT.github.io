@@ -1,12 +1,14 @@
 # main links links
 main:
+  - title: "Info"
+    url: /Info/  
+
   - title: "Publications"
     url: /publications/
 
   - title: "Research"
     url: /Research   
     
-  - title: "Info"
-    url: /Info/  
+
   - title: "Travel Blogs"
     url: /Blogs/
