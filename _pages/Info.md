@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Info"
+title: "Personal Information"
 permalink: /Info/
 author_profile: true
 redirect_from:
