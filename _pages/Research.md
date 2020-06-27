@@ -16,9 +16,14 @@ redirect_from:
    * Obtained a high sensitivity microwave thickness sensor which could be used in micron-sized instrument measurement.
    * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 3).
 
-* ### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
-* Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
-
+* ### <span id = "anchor">Performance-Enhanced Vertical LED Using Laser Irradiation Treatment to Control Wafer-Level N-Gan Protrusion Arrays 2019.08 - 2020.04</span>
+ * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
+  * Proposed a controllable, mask-free, and wafer-level surface texturing method, which is applied to n-GaN protrusion array using laser irradiation treatment targeting to achieve high-performance vertical light-emitting diodes.
+  * Modified a portion of the n-GaN epitaxial film with optimized laser irradiation conditions to generate an appropriate morphological structure to get high-performance LEDs.
+  * Explored the impact of laser lift-off(LLO) on high output power of Vertical LED and analyzed the in-depth mechanism.
+  * Set multiple controlled process conditions of peeling the n-GaN from the epitaxial lm by irradiation to get optimum parameters.
+  * Increased the light output power up to 47.8% at an injection current of 350 mA compared with the conventional vertical LED and reached the standards of industrial grade which could be expected to save costs in mass production.
+* A paper has been published (as shown in PUBLICATIONS 1).
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
