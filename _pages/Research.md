@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
-* Intelligent Algorithm Applied for Microwave Sensor Design 2019.08 - 2020.06
+* ### <span id = "anchor">Intelligent Algorithm Applied for Microwave Sensor Design 2019.08 - 2020.06</span>
+
    * Designed a novel high-quality factor optimized microwave resonator with programmable defective ground structure (DGS) based on Adaptive Genetic Algorithm (AGA).
    * Combined conventional Couple Split-Square Resonator (CSRR) with DGS to obtain maximum Q-factor and ultra-high sensitivity.
    * Applied AGA to achieve faster convergence with fewer iterations compared with conventional genetic algorithm.
