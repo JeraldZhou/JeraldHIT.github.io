@@ -10,20 +10,20 @@ redirect_from:
 
 * ### <span id = "anchor">Intelligent Algorithm Applied for Microwave Sensor Design 2019.08 - 2020.06</span>
  * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
-   * Designed a novel high-quality factor optimized microwave resonator with programmable defective ground structure (DGS) based on Adaptive Genetic Algorithm (AGA).
-   * Combined conventional Couple Split-Square Resonator (CSRR) with DGS to obtain maximum Q-factor and ultra-high sensitivity.
-   * Applied AGA to achieve faster convergence with fewer iterations compared with conventional genetic algorithm.
-   * Obtained a high sensitivity microwave thickness sensor which could be used in micron-sized instrument measurement.
-   * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 3).
+    * Designed a novel high-quality factor optimized microwave resonator with programmable defective ground structure (DGS) based on Adaptive Genetic Algorithm (AGA).
+    * Combined conventional Couple Split-Square Resonator (CSRR) with DGS to obtain maximum Q-factor and ultra-high sensitivity.
+    * Applied AGA to achieve faster convergence with fewer iterations compared with conventional genetic algorithm.
+    * Obtained a high sensitivity microwave thickness sensor which could be used in micron-sized instrument measurement.
+    * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 3).
 
 * ### <span id = "anchor">Performance-Enhanced Vertical LED Using Laser Irradiation Treatment to Control Wafer-Level N-Gan Protrusion Arrays 2019.08 - 2020.04</span>
  * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
-  * Proposed a controllable, mask-free, and wafer-level surface texturing method, which is applied to n-GaN protrusion array using laser irradiation treatment targeting to achieve high-performance vertical light-emitting diodes.
-  * Modified a portion of the n-GaN epitaxial film with optimized laser irradiation conditions to generate an appropriate morphological structure to get high-performance LEDs.
-  * Explored the impact of laser lift-off(LLO) on high output power of Vertical LED and analyzed the in-depth mechanism.
-  * Set multiple controlled process conditions of peeling the n-GaN from the epitaxial lm by irradiation to get optimum parameters.
-  * Increased the light output power up to 47.8% at an injection current of 350 mA compared with the conventional vertical LED and reached the standards of industrial grade which could be expected to save costs in mass production.
-* A paper has been published (as shown in PUBLICATIONS 1).
+   * Proposed a controllable, mask-free, and wafer-level surface texturing method, which is applied to n-GaN protrusion array using laser irradiation treatment targeting to achieve high-performance vertical light-emitting diodes.
+   * Modified a portion of the n-GaN epitaxial film with optimized laser irradiation conditions to generate an appropriate morphological structure to get high-performance LEDs.
+   * Explored the impact of laser lift-off(LLO) on high output power of Vertical LED and analyzed the in-depth mechanism.
+   * Set multiple controlled process conditions of peeling the n-GaN from the epitaxial lm by irradiation to get optimum parameters.
+   * Increased the light output power up to 47.8% at an injection current of 350 mA compared with the conventional vertical LED and reached the standards of industrial grade which could be expected to save costs in mass production.
+   * A paper has been published (as shown in PUBLICATIONS 1).
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
