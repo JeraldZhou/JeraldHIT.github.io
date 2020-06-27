@@ -35,9 +35,9 @@ redirect_from:
    
 ### <span id = "anchor">Aerosol Deposited Batio3 Film Based Interdigital Capacitor and Squared Spiral Capacitor for Humidity Sensing Application 2019.08 - present</span>
   * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
-   * Designed highly sensitive aerosol deposited BaTiO3 lm based inter-digital capacitors (IDCs), and a squared spiral capacitor (SSC) used for humidity sensing application.
-   * Set up a stable multi-parameter (temperature, ultraviolet light) humidity or volatile organic compounds (VOC) test chamber.
-   * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 5).
+    * Designed highly sensitive aerosol deposited BaTiO3 lm based inter-digital capacitors (IDCs), and a squared spiral capacitor (SSC) used for humidity sensing application.
+    * Set up a stable multi-parameter (temperature, ultraviolet light) humidity or volatile organic compounds (VOC) test chamber.
+    * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 5).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0E2lmW-gVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
