@@ -26,13 +26,18 @@ redirect_from:
    * A paper has been published (as shown in PUBLICATIONS 1).
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
 
-### <span id = "anchor">Multilayer SiNx Passivated Al2O3 Gate Dielectric Featuring a Robust Interface for Long LifetimeAlGaN/GaN HEMT 2019.12 - 2020.064</span>
+### <span id = "anchor">Multilayer SiNx Passivated Al2O3 Gate Dielectric Featuring a Robust Interface for Long LifetimeAlGaN/GaN HEMT 2019.12 - 2020.06</span>
  * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
    * Designed a multilayer SiNx passivation-based robust and high-reliability interface for effective suppression of current collapse and reduction of leakage current in AlGaN/GaN heterostructure.
    * Controlled various kind of chemical vapor deposition-grown multilayer SiNx to minimize the off-state leakage current.
    * Achieved a very long operation lifetime HEMT (125 °C and 150 °C to 2.019 ×10^10 h and 2.204 × 10^8h )for high-power applications based on the accelerated three-temperature life test.
    * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 2). 
-In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
+   
+### <span id = "anchor">Aerosol Deposited Batio3 Film Based Interdigital Capacitor and Squared Spiral Capacitor for Humidity Sensing Application 2019.08 - present</span>
+  * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
+   * Designed highly sensitive aerosol deposited BaTiO3 lm based inter-digital capacitors (IDCs), and a squared spiral capacitor (SSC) used for humidity sensing application.
+   * Set up a stable multi-parameter (temperature, ultraviolet light) humidity or volatile organic compounds (VOC) test chamber.
+   * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 5).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0E2lmW-gVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
