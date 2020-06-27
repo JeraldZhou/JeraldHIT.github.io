@@ -25,7 +25,13 @@ redirect_from:
    * Increased the light output power up to 47.8% at an injection current of 350 mA compared with the conventional vertical LED and reached the standards of industrial grade which could be expected to save costs in mass production.
    * A paper has been published (as shown in PUBLICATIONS 1).
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
-  
+### <span id = "anchor">Multilayer SiNx Passivated Al2O3 Gate Dielectric Featuring a Robust Interface for Long LifetimeAlGaN/GaN HEMT 2019.12 - 2020.064</span>
+ * Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
+   * Designed a multilayer SiNx passivation-based robust and high-reliability interface for eective suppression of current collapse and reduction of leakage current in AlGaN/GaN heterostructure.
+   * Controlled various kind of chemical vapor deposition-grown multilayer SiNx to minimize the o-state leakage current.
+   * Achieved a very long operation lifetime HEMT (125 C and 150 C to 2:019  1010 h and 2:204  108h )for high-power
+applications based on the accelerated three-temperature life test.
+   * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 2). 
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0E2lmW-gVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
