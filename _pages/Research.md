@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-* [A sampled-based trajectory planning method for urban autonomous vehicles](#anchor)
+* Supervisor: Cong Wang Professor Institute: Advanced Material and Nanotechnology Lab, HIT
+* Intelligent Algorithm Applied for Microwave Sensor Design 2019.08 - 2020.06
+   * Designed a novel high-quality factor optimized microwave resonator with programmable defective ground structure (DGS) based on Adaptive Genetic Algorithm (AGA).
+   * Combined conventional Couple Split-Square Resonator (CSRR) with DGS to obtain maximum Q-factor and ultra-high sensitivity.
+   * Applied AGA to achieve faster convergence with fewer iterations compared with conventional genetic algorithm.
+   * Obtained a high sensitivity microwave thickness sensor which could be used in micron-sized instrument measurement.
+   * A paper has been submitted and is currently under review (as shown in PUBLICATIONS 3).
 
-* [Path planning for a laser scanning robot system](#anchor2)
-
-* [Intelligent operation of robot arm](#anchor3)
-
-* [Smart car competition](#anchor4)
-
-### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
+* ### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
 * Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
 
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
