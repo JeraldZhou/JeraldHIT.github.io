@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Zhongliang Zhou**, Cong Wang, Luqman Ali, Keun-Woo Lee, Zhao Yao, and Ho-Kun Sung, [Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays](files/paper1.pdf),  Materials Science in Semiconductor Processing, accepted.
+* **Zhongliang Zhou**, Cong Wang, Luqman Ali, Keun-Woo Lee, Zhao Yao, and Ho-Kun Sung, [Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays](files/VLED.pdf),  Materials Science in Semiconductor Processing, accepted.
 * Cong Wang,**Zhongliang Zhou**, and Meng Zhao, [Multilayer SiNx Passivated Al2O3 Gate Dielectric Featuring a Robust Interface for Ultralong-Lifetime AlGaN/GaN HEMT], Applied Physics Letters (Under review).
 * **Zhongliang Zhou**, Cong Wang, Meng Zhao, and Ali Luqman, [Programmable DGS Resonator for Ultra-High Q-Factor Thickness Detection Microwave Sensor], Microwave and Optical Technology Letters (under review).
 * Ho-Kun Sung, Cong Wang, Meng Zhao, Alok Kumar, Guo-Feng Yan, Cheng-Peng Jiang, **Zhongliang Zhou**, and DanQing Zou, [Wafer-scale Fabrication and Assembly Method of Multichannel Microelectrode Arrays for ECoG Application],  Biomedical Microdevices (Under review)
