@@ -21,6 +21,7 @@ a lot of effort on my research, and i really hooked by using algorithm to solve 
 Recent updates
 ======
 * Jun. 2020: The paper Programmable DGS Resonator for Ultra-High Q-Factor Thickness Detection Microwave Sensor is submitted to Microwave and Optical Technology Letters!
+
 The 3D geometry of microwave sensor.
 <center><img src='/images/1.png' width="75%" height="75%" /></center>
 * Apr. 2020: The paper 2.Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays" is accpted by material science in simiconductor processing!
