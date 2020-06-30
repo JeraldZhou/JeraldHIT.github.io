@@ -9,11 +9,40 @@ redirect_from:
 
 Recent updates
 ======
-* Jun. 2020: The paper Programmable DGS Resonator for Ultra-High Q-Factor Thickness Detection Microwave Sensor is submitted to Microwave and Optical Technology Letters!
 
-* Apr. 2020: The paper 2.Performance-enhanced Vertical LED using Laser Irradiation Treatment to Control Wafer-level n-GaN Protrusion Arrays" is accpted by material science in simiconductor processing!
-* Nov. 2019: I finish the microwave sensor design and begin to use controllable laser irradiation applied to n-GaN protrusions generation!
-<center><img src='/images/1.png' width="75%" height="75%" /></center>
+* Jun. 2020 : Travel in Sanya.
 
-* Sep. 2019: I begin my master candidate life and prepare my first project : Intelligent Algorithm Applied for Microwave Sensor Design!
-<center><img src='images/2.png' width="75%" height="75%" /></center>
+<center><img src='/images/sanya1.jpg' width="75%" height="75%" /></center>
+
+<center><img src='/images/sanya2.jpg' width="75%" height="75%" /></center>
+
+* Sep. 2019 : Metasurface meeting in Xian.
+
+<center><img src='/images/xian.JPG' width="75%" height="75%" /></center>
+
+* Mar. 2019 : Musical festival in Chengdu.
+
+<center><img src='/images/music.JPG' width="75%" height="75%" /></center>
+
+* Jul. 2018 : Skiing in Harbin.
+
+<center><img src='/images/Harbin.JPG' width="75%" height="75%" /></center>
+
+* Jun. 2018 : Archery in Harbin.
+
+<center><img src='/images/archery.JPG' width="75%" height="75%" /></center>
+
+* May 2018 : Canton tower
+
+<center><img src='/images/guangzhou.JPG' width="75%" height="75%" /></center>
+
+* Dec. 2017 :Sentosa Singapore 
+
+<center><img src='/images/Singapore.JPG' width="75%" height="75%" /></center>
+
+
+
+
+
+
+
