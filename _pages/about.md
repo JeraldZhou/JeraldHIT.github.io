@@ -29,7 +29,7 @@ The 3D geometry of microwave sensor.
 * Nov. 2019: I finish the microwave sensor design and begin to use controllable laser irradiation applied to n-GaN protrusions generation!
 
 The fabrication process of VLED.
-<center><img src='images/LLO.png' width="75%" height="75%" /></center>
+<center><img src='images/LLO.png'></center>
 
 * Sep. 2019: I begin my master candidate life and prepare my first project : Intelligent Algorithm Applied for Microwave Sensor Design!
 
